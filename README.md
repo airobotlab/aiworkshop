@@ -10,6 +10,9 @@ aiworkshop
 ## 1_인공지능 드론제어
 
 ## 2_나만의챗봇 만들기
+게시판 주소: https://padlet.com/gwy876/230721-aiworkshop-lasco-ai-s1jj3ikcuohin441
+
+
 - API 키
   - openai: sk- TtfQ0bLtAAKSy2i8YLomT3BlbkFJFOGcVMHBucEmOIJGDImp
   - serp: 9615cb905635ccf70927f093bacc4e39a63a2e2a605e2f2b56f884c9acf36db7
