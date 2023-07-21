@@ -1,0 +1,9 @@
+jupyter
+openai
+langchain
+pypdf
+chromadb
+tiktoken
+gradio
+streamlit
+streamlit-chat
